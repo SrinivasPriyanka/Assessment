@@ -5,6 +5,7 @@ This repository contains an API test suite for validating various JSON responses
 1. **Install Postman** :
    To run the tests, you need to have Postman installed on your system. If you don’t have it already, you can download and install it from the official website:
    - Download Postman - https://www.postman.com/downloads/
+   - To clone the gitHub repositry command from command prompt: git clone https://github.com/SrinivasPriyanka/Assessment
 2. **Import the Postman Collection** :
    - **Download the Postman Collection** : The collection file **(“OpenChargeMapAPI.postman”)** which is available in this repository.
    - **Import the Collection** :
